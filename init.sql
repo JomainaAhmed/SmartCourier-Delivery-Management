@@ -2,3 +2,4 @@ CREATE DATABASE auth_db2;
 CREATE DATABASE delivery_db2;
 CREATE DATABASE tracking_db2;
 CREATE DATABASE admin_db2;
+CREATE DATABASE sonarqube;
